@@ -33,6 +33,7 @@ public class AndOrXor {
 		// 6 = 1 1 0
 		// 6 | 2 = 1 1 0 = 6
 		// The single ^ operator is used to "exclusively or" the bits together.
+
 		// EXAMPLE:
 		// What is the value of 3 ^ 7?
 		num = 3 ^ 7;
@@ -46,12 +47,6 @@ public class AndOrXor {
 		// 9 = 1 0 0 1
 		// 11 = 1 0 1 1
 		// 9 ^ 11 = 0 0 1 0 = 2
-		/*
-		 * Practice
-		 * 10101100 11110111 01011011 1+2+8+16+64 27+64 = 91
-		 * 1+24+128 128+32
-		 * 1011110+0000
-		 * 
-		 */
+		// ALL Quizzes Streak 10
 	}
 }
