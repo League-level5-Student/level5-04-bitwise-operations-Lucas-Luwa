@@ -6,7 +6,7 @@ public class BinaryPrinter {
 	// others.
 	// Create a main method to test your methods.
 	public static void main(String[] args) {
-		printByteBinary((byte) 118);
+		printByteBinary((byte) 128);
 		printShortBinary((short) 27670);
 		printIntBinary(1282311212);
 		printLongBinary(1514610092);
